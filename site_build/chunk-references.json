@@ -1,0 +1,43 @@
+[
+  {
+    "name": "app",
+    "id": 143,
+    "files": [
+      "/static/css/app.36477aee.css",
+      "/static/js/app.44499db9.js"
+    ],
+    "referencedChunks": [
+      838,
+      460,
+      754
+    ]
+  },
+  {
+    "name": "runtime-app",
+    "id": 838,
+    "files": [
+      "/static/js/runtime-app.c8b69d93.js"
+    ],
+    "referencedChunks": [
+      143,
+      460,
+      754
+    ]
+  },
+  {
+    "name": "HomePage",
+    "id": 460,
+    "files": [
+      "/static/js/HomePage.7774dda4.chunk.js"
+    ],
+    "referencedChunks": []
+  },
+  {
+    "name": "NotFoundPage",
+    "id": 754,
+    "files": [
+      "/static/js/NotFoundPage.164d5056.chunk.js"
+    ],
+    "referencedChunks": []
+  }
+]

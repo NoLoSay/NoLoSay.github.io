@@ -1,0 +1,21 @@
+{
+  "app.css": "/static/css/app.36477aee.css",
+  "app.js": "/static/js/app.44499db9.js",
+  "runtime-app.js": "/static/js/runtime-app.c8b69d93.js",
+  "HomePage.js": "/static/js/HomePage.7774dda4.chunk.js",
+  "NotFoundPage.js": "/static/js/NotFoundPage.164d5056.chunk.js",
+  "static/media/flare-bg.png": "/static/media/flare-bg.fd2a7b9a.png",
+  "static/media/walking.png": "/static/media/walking.088d47c7.png",
+  "static/media/placeholder1.png": "/static/media/placeholder1.e37b65f2.png",
+  "static/media/idea.png": "/static/media/idea.cb3b4741.png",
+  "static/media/signing.png": "/static/media/signing.f997f09a.png",
+  "static/media/nolosay_coeur.png": "/static/media/nolosay_coeur.66977047.png",
+  "static/media/nolosay_white_font.png": "/static/media/nolosay_white_font.6d61c578.png",
+  "static/media/avatar-1.jpg": "/static/media/avatar-1.76677015.jpg",
+  "static/media/epi_blanc.png": "/static/media/epi_blanc.17b68ec1.png",
+  "static/media/loire-logo.png": "/static/media/loire-logo.9012569b.png",
+  "favicon.png": "/favicon.png",
+  "README.md": "/README.md",
+  "index.html": "/index.html",
+  "robots.txt": "/robots.txt"
+}
