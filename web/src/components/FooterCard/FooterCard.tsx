@@ -8,7 +8,7 @@ const FooterCard = () => {
       <div className="flex flex-row place-items-center">
         <div>
           <Typography sx={{fontSize:60, marginX: 15, fontWeight: 700, marginRight: 15}}>
-            N'attendez plus,propagez l'information avec NOLOSAY
+            N'attendez plus, propagez l'information avec NOLOSAY
           </Typography>
           <Typography sx={{fontSize: 25, marginX: 15, fontWeight: 700, marginRight: 15}}>
             Obtenez gratuitement l'application mobile Nolosaydès maintenant !

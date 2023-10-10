@@ -7,7 +7,7 @@ import BubbleRight from "../../../assets/signing.png"
 
 const InformativeZone = (props) => {
   return (
-    <div className="flex flex-row place-items-center">
+    <div className="flex flex-row place-items-center py-10">
       {props.altDir && <img src={Placeholder1} alt="bg" className="h-200 w-200  m-10 "/>}
       {props.altImg && <img src={Idea} alt="bg" className="h-200 w-200  m-10 "/>}
       {props.bubbleLeft && <img src={BubbleLeft} alt="bg" className="h-200 w-200  m-10 "/>}

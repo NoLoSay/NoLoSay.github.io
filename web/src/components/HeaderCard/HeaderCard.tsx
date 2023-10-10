@@ -9,19 +9,19 @@ import { Button, Typography, ButtonBase } from "@mui/material"
 
 const HeaderCard = () => {
   return (
-    <div className="bg-[url('/assets/flare-bg.png')] -z-20">
+    <div className="bg-[url('/assets/flare-bg.png')] -z-20 bg-cover">
       <div className="flex flex-rox justify-between z-30">
         <img src={nolosayLogo} alt="bg" className="w-72 m-16"/>
         <div className="place-items-center">
-          <ButtonBase  sx={{height: '30px', backgroundColor: "#f5dd42", borderRadius: 3, paddingX: 2, paddingY: 2, margin: 5 }}>
+          <ButtonBase  sx={{height: '30px', backgroundColor: "#f5dd42", borderRadius: 3, paddingX: 2, paddingY: 2, margin: 5 }} href="mailto:contact@nolosay.com">
             CONTACT
           </ButtonBase>
         </div>
       </div>
-      <Typography sx={{color: "#ffffff", fontSize: 120, marginLeft: 15, fontWeight: 700, marginRight: 60}} className="z-30">
+      <Typography sx={{color: "#ffffff", fontSize: 100, fontWeight: 700}} className="z-30 flex px-32 pb-20">
         Rendre l'accès à l'information à ceux qui en sont privé
       </Typography>
-      <Typography sx={{color: "#ffffff", fontSize: 45, marginX: 15, marginRight: 15}}  className="z-30">
+      <Typography sx={{color: "#ffffff", fontSize: 30}}  className="z-30 flex px-32">
         En France, plusieurs millions de personnes sourdes et malentandantes ont des difficultés d'accès à l'information. Soyez déclancheur de ce changement maintenant !
       </Typography>
       <ButtonBase sx={{height: '30px', backgroundColor: "#ffffff", borderRadius: 4, paddingX: 3, paddingY: 3, marginX: 15, marginY:5, fontSize: 20 }}  className="z-30">
