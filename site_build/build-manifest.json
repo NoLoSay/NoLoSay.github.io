@@ -1,9 +1,11 @@
 {
-  "app.css": "/static/css/app.36477aee.css",
-  "app.js": "/static/js/app.44499db9.js",
-  "runtime-app.js": "/static/js/runtime-app.c8b69d93.js",
-  "HomePage.js": "/static/js/HomePage.7774dda4.chunk.js",
+  "app.css": "/static/css/app.9af46ec8.css",
+  "app.js": "/static/js/app.9a3c6dd5.js",
+  "runtime-app.js": "/static/js/runtime-app.ecb26b2b.js",
+  "HomePage.js": "/static/js/HomePage.254304e3.chunk.js",
   "NotFoundPage.js": "/static/js/NotFoundPage.164d5056.chunk.js",
+  "static/media/face2.jpeg": "/static/media/face2.8a789374.jpeg",
+  "static/media/face3.jpeg": "/static/media/face3.a419ffb3.jpeg",
   "static/media/flare-bg.png": "/static/media/flare-bg.fd2a7b9a.png",
   "static/media/walking.png": "/static/media/walking.088d47c7.png",
   "static/media/placeholder1.png": "/static/media/placeholder1.e37b65f2.png",
@@ -15,7 +17,6 @@
   "static/media/epi_blanc.png": "/static/media/epi_blanc.17b68ec1.png",
   "static/media/loire-logo.png": "/static/media/loire-logo.9012569b.png",
   "favicon.png": "/favicon.png",
-  "README.md": "/README.md",
   "index.html": "/index.html",
   "robots.txt": "/robots.txt"
 }
