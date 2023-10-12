@@ -15,7 +15,9 @@ jobs:
     steps:
       - name: NOLOSAY
         uses: actions/checkout@v2
-      - run: yarn rw build
+      - run: |
+          yarn install
+          yarn rw build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
