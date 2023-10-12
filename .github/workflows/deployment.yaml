@@ -18,6 +18,8 @@ jobs:
       - run: |
           yarn install
           yarn rw build
+          echo nolosay.com > CNAME
+          mv CNAME ./web/build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
