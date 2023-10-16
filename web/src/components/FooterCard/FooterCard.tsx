@@ -1,5 +1,5 @@
 import { Button, ButtonBase, Typography } from "@mui/material"
-import Idea from "../../../assets/nolosay_coeur.png"
+import Coeur from "../../../assets/nolosay_coeur.png"
 import InformativeZone from "../InformativeZone/InformativeZone"
 
 const FooterCard = () => {
@@ -19,7 +19,7 @@ const FooterCard = () => {
             </Typography>
           </ButtonBase>
         </div>
-        <img src={Idea} alt="bg" className="flex h-96 w-96  m-10 mr-52 "/>
+        <img src={Coeur} alt="bg" className="flex h-2/12 w-2/12"/>
       </div>
       <Typography sx={{margin: 3}}>
         NOLOSAY - 2022 - 2023
