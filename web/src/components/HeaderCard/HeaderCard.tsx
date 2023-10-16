@@ -9,7 +9,7 @@ import { Button, Typography, ButtonBase } from "@mui/material"
 
 const HeaderCard = () => {
   return (
-    <div className="bg-[url('/assets/flare-bg.png')] -z-20 bg-cover">
+    <div className="bg-[url('/assets/flare-bg.png')] -z-20 bg-cover bg-scroll" style={{backgroundAttachment: "fixed" }}>
       <div className="flex flex-rox justify-between z-30">
         <img src={nolosayLogo} alt="bg" className="w-72 m-16"/>
         <div className="place-items-center">
@@ -18,7 +18,7 @@ const HeaderCard = () => {
           </ButtonBase>
         </div>
       </div>
-      <Typography sx={{color: "#ffffff", fontSize: 100, fontWeight: 700}} className="z-30 flex px-32 pb-20">
+      <Typography sx={{color: "#ffffff", fontSize: 100, fontWeight: 700}} className="z-30 flex px-32 pb-20 w-screen">
         Rendre l'accès à l'information à ceux qui en sont privé
       </Typography>
       <Typography sx={{color: "#ffffff", fontSize: 30}}  className="z-30 flex px-32">

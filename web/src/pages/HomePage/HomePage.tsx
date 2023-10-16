@@ -10,7 +10,7 @@ import FooterCard from 'src/components/FooterCard/FooterCard'
 const HomePage = () => {
   return (
     <>
-      <MetaTags title="Home" description="Home page" />
+      <MetaTags title="Nolosay" description="Nolosay" />
 
       <HeaderCard/>
       <ThreeInfos/>

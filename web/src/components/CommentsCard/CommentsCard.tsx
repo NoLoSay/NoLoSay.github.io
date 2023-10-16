@@ -6,7 +6,7 @@ import Avatar3 from "../../../assets/face3.jpeg"
 
 const CommentsCard = () => {
   return (
-    <div className=" p-3 rounded bg-[url('/assets/flare-bg.png')] flex flex-col space-x-2 drop-shadow-md shadow z-20 bg-cover">
+    <div className=" p-3 rounded bg-[url('/assets/flare-bg.png')] flex flex-col space-x-2 drop-shadow-md shadow z-20 bg-cover" style={{backgroundAttachment: "fixed" }}>
       <Typography sx={{color: "#FFFFFF", fontSize: 75, fontWeight: 700, marginY: 6}} className="self-center">
         Ils nous font confiance
       </Typography>

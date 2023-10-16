@@ -2,7 +2,7 @@ import { Typography } from "@mui/material"
 
 const Comments = (props) => {
   return (
-    <div className="flex flex-col justify-between p-10 rounded-xl shadow bg-slate-100 z-10 drop-shadow-md m-8 w-1/3">
+    <div className="flex flex-col justify-between p-10 rounded-xl shadow bg-slate-100 z-10 drop-shadow-md m-8 w-1/3" style={{backgroundAttachment: "fixed" }}>
       <Typography sx={{fontStyle: "italic"}}>
         {props.text}
       </Typography>
