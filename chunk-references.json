@@ -3,7 +3,7 @@
     "name": "app",
     "id": 143,
     "files": [
-      "/static/css/app.ba971f5c.css",
+      "/static/css/app.7a5d60d2.css",
       "/static/js/app.3046b33a.js"
     ],
     "referencedChunks": [
@@ -16,7 +16,7 @@
     "name": "runtime-app",
     "id": 838,
     "files": [
-      "/static/js/runtime-app.1f1180d2.js"
+      "/static/js/runtime-app.bef972fc.js"
     ],
     "referencedChunks": [
       143,
@@ -28,7 +28,7 @@
     "name": "HomePage",
     "id": 460,
     "files": [
-      "/static/js/HomePage.8abc9709.chunk.js"
+      "/static/js/HomePage.a10c7b09.chunk.js"
     ],
     "referencedChunks": []
   },
